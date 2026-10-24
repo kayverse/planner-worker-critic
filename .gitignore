@@ -1,0 +1,16 @@
+# secrets: NEVER commit these
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# scratch output from the offline test
+results/results_stub.jsonl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

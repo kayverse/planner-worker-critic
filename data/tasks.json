@@ -1,0 +1,182 @@
+[
+  {
+    "id": "A1",
+    "tier": "A",
+    "data_file": "sales_clean.csv",
+    "question": "What is the total revenue (units x price) of all orders?",
+    "expected": 47910,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "A2",
+    "tier": "A",
+    "data_file": "sales_clean.csv",
+    "question": "How many orders are in region North?",
+    "expected": 49,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "A3",
+    "tier": "A",
+    "data_file": "sales_clean.csv",
+    "question": "What is the average revenue per order, rounded to 2 decimals?",
+    "expected": 399.25,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "A4",
+    "tier": "A",
+    "data_file": "sales_clean.csv",
+    "question": "Which product has the highest total units sold?",
+    "expected": "Mug",
+    "kind": "text",
+    "tolerance": 0.01
+  },
+  {
+    "id": "A5",
+    "tier": "A",
+    "data_file": "sales_clean.csv",
+    "question": "How many distinct customers placed orders?",
+    "expected": 24,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "B1",
+    "tier": "B",
+    "data_file": "sales_clean.csv",
+    "question": "Revenue from region South in March only, excluding refunded orders?",
+    "expected": 3240,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "B2",
+    "tier": "B",
+    "data_file": "sales_clean.csv",
+    "question": "Which customer has the highest revenue excluding refunded orders, and how much? Answer as 'ID amount'.",
+    "expected": "C22 4695",
+    "kind": "text",
+    "tolerance": 0.01
+  },
+  {
+    "id": "B3",
+    "tier": "B",
+    "data_file": "sales_clean.csv",
+    "question": "Which month has the highest total revenue (all orders)?",
+    "expected": "March",
+    "kind": "text",
+    "tolerance": 0.01
+  },
+  {
+    "id": "B4",
+    "tier": "B",
+    "data_file": "sales_clean.csv",
+    "question": "Difference between the best and worst region by revenue excluding refunds?",
+    "expected": 5889,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "B5",
+    "tier": "B",
+    "data_file": "sales_clean.csv",
+    "question": "Average units per order across the top 3 products by total revenue, rounded to 2 decimals?",
+    "expected": 3.75,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "B6",
+    "tier": "B",
+    "data_file": "sales_clean.csv",
+    "question": "What percent of orders were refunded, rounded to 1 decimal?",
+    "expected": 12.5,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "B7",
+    "tier": "B",
+    "data_file": "sales_clean.csv",
+    "question": "How many customers ordered in both January and February?",
+    "expected": 15,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "B8",
+    "tier": "B",
+    "data_file": "sales_clean.csv",
+    "question": "Which customer placed the most orders overall (ties: highest ID), and how many of their orders were refunded? Answer as 'ID count'.",
+    "expected": "C18 0",
+    "kind": "text",
+    "tolerance": 0.01
+  },
+  {
+    "id": "C1",
+    "tier": "C",
+    "data_file": "sales_dirty.csv",
+    "question": "Total revenue after removing duplicate order_ids?",
+    "expected": 47910,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "C2",
+    "tier": "C",
+    "data_file": "sales_dirty.csv",
+    "question": "How many orders per region? Ignore case and extra spaces. Answer as 'North South East' counts, e.g. '40 41 39'.",
+    "expected": "49 28 43",
+    "kind": "text",
+    "tolerance": 0.01
+  },
+  {
+    "id": "C3",
+    "tier": "C",
+    "data_file": "sales_dirty.csv",
+    "question": "Average price per unit across orders that have a price, rounded to 2 decimals (dedupe order_ids first)?",
+    "expected": 111.13,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "C4",
+    "tier": "C",
+    "data_file": "sales_dirty.csv",
+    "question": "How many distinct orders were placed in February? (dates are mixed YYYY-MM-DD and DD/MM/YYYY)",
+    "expected": 38,
+    "kind": "number",
+    "tolerance": 0.01
+  },
+  {
+    "id": "C5",
+    "tier": "C",
+    "data_file": "sales_dirty.csv",
+    "question": "What is the total revenue for region West?",
+    "expected": "NOT FOUND",
+    "kind": "text",
+    "tolerance": 0.01
+  },
+  {
+    "id": "C6",
+    "tier": "C",
+    "data_file": "sales_dirty.csv",
+    "question": "Which region has the highest revenue excluding refunds? Dedupe, ignore case/spaces. (Rows with missing price: look the price up from the same product's other rows.)",
+    "expected": "North",
+    "kind": "text",
+    "tolerance": 0.01
+  },
+  {
+    "id": "C7",
+    "tier": "C",
+    "data_file": "sales_dirty.csv",
+    "question": "How many distinct orders have a missing price?",
+    "expected": 6,
+    "kind": "number",
+    "tolerance": 0.01
+  }
+]

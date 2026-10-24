@@ -1,0 +1,40 @@
+{"config": "worker", "id": "A1", "answer": "47910", "expected": 47910, "ok": true, "steps": 1, "critic_calls": 0, "blocks": 0, "tokens": 1061, "cost": 0.0}
+{"config": "worker", "id": "A2", "answer": "49", "expected": 49, "ok": true, "steps": 2, "critic_calls": 0, "blocks": 0, "tokens": 2751, "cost": 0.0}
+{"config": "worker", "id": "A3", "answer": "399.25", "expected": 399.25, "ok": true, "steps": 5, "critic_calls": 0, "blocks": 0, "tokens": 7177, "cost": 0.0}
+{"config": "worker", "id": "A4", "answer": "Mug", "expected": "Mug", "ok": true, "steps": 2, "critic_calls": 0, "blocks": 0, "tokens": 2864, "cost": 0.0}
+{"config": "worker", "id": "A5", "answer": "24", "expected": 24, "ok": true, "steps": 1, "critic_calls": 0, "blocks": 0, "tokens": 1255, "cost": 0.0}
+{"config": "worker", "id": "B1", "answer": "3240", "expected": 3240, "ok": true, "steps": 5, "critic_calls": 0, "blocks": 0, "tokens": 8242, "cost": 0.0}
+{"config": "worker", "id": "B2", "answer": "C22 4695", "expected": "C22 4695", "ok": true, "steps": 4, "critic_calls": 0, "blocks": 0, "tokens": 6803, "cost": 0.0}
+{"config": "worker", "id": "B3", "answer": "March", "expected": "March", "ok": true, "steps": 3, "critic_calls": 0, "blocks": 0, "tokens": 5197, "cost": 0.0}
+{"config": "worker", "id": "B4", "answer": "5889", "expected": 5889, "ok": true, "steps": 2, "critic_calls": 0, "blocks": 0, "tokens": 3057, "cost": 0.0}
+{"config": "worker", "id": "B5", "answer": "3.75", "expected": 3.75, "ok": true, "steps": 6, "critic_calls": 0, "blocks": 0, "tokens": 14880, "cost": 0.0}
+{"config": "worker", "id": "B6", "answer": "12.5%", "expected": 12.5, "ok": true, "steps": 2, "critic_calls": 0, "blocks": 0, "tokens": 2906, "cost": 0.0}
+{"config": "worker", "id": "B7", "answer": "15", "expected": 15, "ok": true, "steps": 4, "critic_calls": 0, "blocks": 0, "tokens": 8258, "cost": 0.0}
+{"config": "worker", "id": "B8", "answer": "C18 0", "expected": "C18 0", "ok": true, "steps": 5, "critic_calls": 0, "blocks": 0, "tokens": 11781, "cost": 0.0}
+{"config": "worker", "id": "C1", "answer": "47910.0", "expected": 47910, "ok": true, "steps": 6, "critic_calls": 0, "blocks": 0, "tokens": 10833, "cost": 0.0}
+{"config": "worker", "id": "C2", "answer": "51 31 46", "expected": "49 28 43", "ok": false, "steps": 3, "critic_calls": 0, "blocks": 0, "tokens": 3416, "cost": 0.0}
+{"config": "worker", "id": "C3", "answer": "111.13", "expected": 111.13, "ok": true, "steps": 6, "critic_calls": 0, "blocks": 0, "tokens": 11304, "cost": 0.0}
+{"config": "worker", "id": "C4", "answer": "38", "expected": 38, "ok": true, "steps": 6, "critic_calls": 0, "blocks": 0, "tokens": 21067, "cost": 0.0}
+{"config": "worker", "id": "C5", "answer": "NOT FOUND", "expected": "NOT FOUND", "ok": true, "steps": 5, "critic_calls": 0, "blocks": 0, "tokens": 8170, "cost": 0.0}
+{"config": "worker", "id": "C6", "answer": "north", "expected": "North", "ok": true, "steps": 4, "critic_calls": 0, "blocks": 0, "tokens": 4617, "cost": 0.0}
+{"config": "worker", "id": "C7", "answer": "6", "expected": 6, "ok": true, "steps": 3, "critic_calls": 0, "blocks": 0, "tokens": 2875, "cost": 0.0}
+{"config": "full", "id": "A1", "answer": "47910 FINAL: 47910 FINAL: 47910", "expected": 47910, "ok": true, "steps": 5, "critic_calls": 1, "blocks": 0, "tokens": 5553, "cost": 0.0}
+{"config": "full", "id": "A2", "answer": "49 FINAL: 49 FINAL: 49", "expected": 49, "ok": true, "steps": 6, "critic_calls": 1, "blocks": 0, "tokens": 5869, "cost": 0.0}
+{"config": "full", "id": "A3", "answer": "399.25 FINAL: 399.25 FINAL: 399.25", "expected": 399.25, "ok": true, "steps": 12, "critic_calls": 1, "blocks": 0, "tokens": 19607, "cost": 0.0}
+{"config": "full", "id": "A4", "answer": "Mug FINAL: Mug FINAL: Mug", "expected": "Mug", "ok": true, "steps": 7, "critic_calls": 1, "blocks": 0, "tokens": 9244, "cost": 0.0}
+{"config": "full", "id": "A5", "answer": "24 FINAL: 24", "expected": 24, "ok": true, "steps": 7, "critic_calls": 1, "blocks": 0, "tokens": 7256, "cost": 0.0}
+{"config": "full", "id": "B1", "answer": "3240 FINAL: 3240 FINAL: 3240", "expected": 3240, "ok": true, "steps": 8, "critic_calls": 1, "blocks": 0, "tokens": 12520, "cost": 0.0}
+{"config": "full", "id": "B2", "answer": "C22 4695 FINAL: C22 4695 FINAL: C22 4695 FINAL: C22 4695", "expected": "C22 4695", "ok": true, "steps": 11, "critic_calls": 1, "blocks": 0, "tokens": 18932, "cost": 0.0}
+{"config": "full", "id": "B3", "answer": "3 FINAL: 3 FINAL: 3 FINAL: March", "expected": "March", "ok": true, "steps": 13, "critic_calls": 2, "blocks": 0, "tokens": 20020, "cost": 0.0}
+{"config": "full", "id": "B4", "answer": "5889", "expected": 5889, "ok": true, "steps": 10, "critic_calls": 2, "blocks": 0, "tokens": 15478, "cost": 0.0}
+{"config": "full", "id": "B5", "answer": "3.75", "expected": 3.75, "ok": true, "steps": 20, "critic_calls": 2, "blocks": 0, "tokens": 36745, "cost": 0.0}
+{"config": "full", "id": "B6", "answer": "12.5%", "expected": 12.5, "ok": true, "steps": 10, "critic_calls": 2, "blocks": 0, "tokens": 10287, "cost": 0.0}
+{"config": "full", "id": "B7", "answer": "15", "expected": 15, "ok": true, "steps": 13, "critic_calls": 2, "blocks": 0, "tokens": 25605, "cost": 0.0}
+{"config": "full", "id": "B8", "answer": "C18 0 FINAL: C18 0 FINAL: C18 0 FINAL: C18 0", "expected": "C18 0", "ok": true, "steps": 12, "critic_calls": 1, "blocks": 0, "tokens": 23044, "cost": 0.0}
+{"config": "full", "id": "C1", "answer": "39360.0 FINAL: 39360.0 FINAL: 46941.0 (step failed)", "expected": 47910, "ok": false, "steps": 36, "critic_calls": 2, "blocks": 0, "tokens": 78665, "cost": 0.0}
+{"config": "full", "id": "C2", "answer": "51 31 46 FINAL: 51 31 46 FINAL: 51 31 46 FINAL: 51 31 46", "expected": "49 28 43", "ok": false, "steps": 13, "critic_calls": 1, "blocks": 0, "tokens": 15298, "cost": 0.0}
+{"config": "full", "id": "C3", "answer": "41.39 FINAL: 41.39 FINAL: 41.39", "expected": 111.13, "ok": false, "steps": 17, "critic_calls": 1, "blocks": 0, "tokens": 24720, "cost": 0.0}
+{"config": "full", "id": "C4", "answer": "38 FINAL: 38 FINAL: 38", "expected": 38, "ok": true, "steps": 26, "critic_calls": 2, "blocks": 0, "tokens": 55253, "cost": 0.0}
+{"config": "full", "id": "C5", "answer": "NOT FOUND FINAL: NOT FOUND FINAL: NOT FOUND", "expected": "NOT FOUND", "ok": true, "steps": 25, "critic_calls": 2, "blocks": 0, "tokens": 40644, "cost": 0.0}
+{"config": "full", "id": "C6", "answer": "north", "expected": "North", "ok": true, "steps": 19, "critic_calls": 2, "blocks": 0, "tokens": 40031, "cost": 0.0}
+{"config": "full", "id": "C7", "answer": "6 FINAL: 6 FINAL: 6 FINAL: 6", "expected": 6, "ok": true, "steps": 5, "critic_calls": 1, "blocks": 0, "tokens": 5104, "cost": 0.0}

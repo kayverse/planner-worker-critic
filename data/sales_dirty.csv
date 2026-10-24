@@ -1,0 +1,129 @@
+order_id,customer_id,region,product,units,price,date,refunded
+O027,C25,North,Mug,5,60,03/02/2026,False
+O046,C18, north ,Lamp,1,150,10/01/2026,False
+O079,C01,North,Bag,3,300,2026-03-10,False
+O013,C12,North,Bag,6,300,2026-01-21,False
+O031,C03,North,Mug,6,60,2026-01-31,False
+O112,C05,EAST,Lamp,5,150,22/01/2026,True
+O011,C25,South,Notebook,1,45,2026-03-26,False
+O080,C04, east ,Pen,4,12,2026-02-03,False
+O057,C08,South,Bag,4,300,27/01/2026,False
+O082,C09,North,Notebook,6,,2026-03-15,False
+O005,C08,South,Lamp,5,150,2026-03-11,False
+O019,C05,South,Lamp,2,,2026-02-20,False
+O061,C18,East,Lamp,3,150,2026-01-21,False
+O050,C05, north ,Lamp,3,150,13/03/2026,False
+O103,C03,East,Lamp,3,150,05/02/2026,False
+O095,C07, east ,Mug,6,60,22/03/2026,False
+O052,C19,South,Pen,5,12,08/01/2026,False
+O093,C05,NORTH,Notebook,1,45,2026-01-29,False
+O110,C16,NORTH,Notebook,3,45,2026-03-19,False
+O066,C03,EAST,Pen,4,12,02/02/2026,False
+O041,C07, north ,Lamp,1,150,2026-03-02,False
+O083,C22,East,Mug,6,60,2026-03-08,False
+O101,C06,East,Lamp,4,150,2026-03-12,False
+O118,C21,North,Notebook,6,45,2026-02-14,True
+O098,C08,NORTH,Mug,4,60,07/01/2026,False
+O064,C09,SOUTH,Notebook,5,45,2026-03-12,False
+O024,C09, east ,Mug,1,60,01/03/2026,False
+O008,C09,North,Mug,6,60,2026-02-14,False
+O003,C01, north ,Pen,2,12,24/02/2026,False
+O007,C04,North,Bag,4,300,2026-01-28,True
+O036,C04, north ,Lamp,2,150,2026-03-08,True
+O001,C01,East,Pen,3,12,23/03/2026,False
+O034,C25,EAST,Mug,6,60,2026-01-28,False
+O113,C19,EAST,Mug,1,60,20/02/2026,True
+O109,C18,East,Lamp,6,150,2026-02-19,False
+O017,C02,South,Notebook,4,45,2026-01-08,False
+O067,C11,North,Pen,6,12,2026-01-06,False
+O085,C22,NORTH,Bag,6,300,2026-03-21,False
+O042,C14,South,Lamp,6,150,2026-02-15,True
+O012,C09,South,Lamp,6,150,13/01/2026,False
+O058,C15,SOUTH,Bag,1,300,24/03/2026,True
+O091,C24, north ,Lamp,6,150,2026-03-07,True
+O094,C25,North,Mug,4,60,2026-03-02,False
+O115,C15,South,Notebook,3,45,11/02/2026,False
+O025,C25,South,Mug,6,60,15/01/2026,False
+O043,C02,South,Pen,6,12,2026-03-25,False
+O102,C25,East,Bag,4,300,2026-02-01,False
+O037,C18,North,Mug,5,60,2026-01-03,False
+O030,C04,South,Pen,3,,2026-03-04,False
+O117,C24, east ,Pen,1,12,02/03/2026,False
+O068,C18,East,Lamp,4,150,21/01/2026,False
+O029,C18,East,Notebook,1,45,2026-02-17,False
+O070,C18,North,Mug,4,60,2026-02-17,False
+O084,C14,NORTH,Bag,6,300,2026-01-26,False
+O104,C18,North,Bag,2,300,2026-02-12,False
+O086,C22,SOUTH,Bag,3,300,2026-03-06,False
+O097,C08,North,Lamp,6,150,2026-01-14,False
+O107,C25,East,Lamp,6,150,2026-02-23,True
+O018,C23, south ,Mug,2,60,2026-01-28,False
+O038,C08,NORTH,Pen,1,12,2026-01-10,False
+O071,C02, south ,Bag,2,300,2026-02-09,False
+O053,C02,East,Notebook,1,45,2026-03-09,False
+O028,C21,EAST,Bag,5,300,2026-03-22,False
+O120,C22,North,Lamp,5,150,2026-01-17,False
+O062,C01,East,Mug,5,60,25/03/2026,False
+O035,C22,East,Lamp,3,150,2026-02-09,False
+O023,C20,NORTH,Lamp,4,150,2026-03-29,False
+O072,C12, east ,Pen,4,12,2026-03-27,False
+O020,C09, east ,Mug,5,60,2026-03-13,False
+O059,C04,North,Mug,5,60,2026-03-21,False
+O047,C03,NORTH,Pen,2,12,2026-03-11,False
+O056,C19, east ,Mug,3,60,2026-02-23,False
+O119,C07, north ,Notebook,5,45,2026-01-04,False
+O063,C05,South,Pen,1,12,2026-03-26,False
+O054,C03,East,Mug,2,60,2026-01-09,False
+O002,C22,East,Pen,5,12,18/01/2026,True
+O044,C07,NORTH,Notebook,5,45,2026-01-14,False
+O065,C22,EAST,Notebook,3,45,13/02/2026,False
+O009,C03, east ,Lamp,3,150,2026-01-16,False
+O116,C25,SOUTH,Bag,3,300,2026-02-18,False
+O055,C19, east ,Notebook,1,45,14/03/2026,False
+O069,C23,NORTH,Pen,5,12,2026-01-15,True
+O045,C09,SOUTH,Notebook,2,45,24/02/2026,False
+O006,C23,South,Notebook,3,45,2026-01-01,False
+O073,C06,North,Notebook,4,45,20/01/2026,True
+O016,C08,East,Mug,3,60,23/03/2026,False
+O077,C11,South,Lamp,1,150,2026-01-25,False
+O088,C20,East,Notebook,3,45,2026-02-18,False
+O039,C08,South,Mug,6,60,10/01/2026,False
+O108,C16, north ,Lamp,3,150,2026-03-15,False
+O032,C25,North,Mug,2,60,09/01/2026,False
+O081,C20, east ,Lamp,1,150,2026-02-10,False
+O089,C10,North,Bag,4,300,2026-01-01,False
+O076,C10,North,Bag,2,300,28/02/2026,True
+O010,C19,North,Bag,6,300,2026-03-21,True
+O026,C06,South,Lamp,1,150,2026-02-07,False
+O111,C11,East,Lamp,6,150,2026-01-04,False
+O051,C24,East,Mug,1,60,2026-01-08,False
+O049,C15,SOUTH,Bag,4,300,2026-02-19,False
+O087,C05, north ,Mug,4,60,2026-02-07,False
+O074,C22,East,Lamp,2,150,2026-02-12,False
+O106,C15,South,Mug,1,60,2026-02-12,False
+O004,C18,North,Pen,6,12,2026-03-19,False
+O075,C13,NORTH,Pen,4,,31/03/2026,False
+O014,C20,East,Pen,2,12,2026-03-29,False
+O040,C24,East,Notebook,5,45,11/03/2026,False
+O021,C12,North,Lamp,2,150,16/03/2026,False
+O105,C23,North,Notebook,1,45,19/02/2026,False
+O100,C24,EAST,Mug,4,60,2026-02-26,False
+O015,C15,South,Notebook,3,45,2026-02-01,False
+O092,C11,North,Mug,2,60,2026-03-07,False
+O096,C05, east ,Notebook,6,45,21/02/2026,True
+O114,C15,North,Notebook,1,45,24/02/2026,False
+O078,C21,East,Bag,4,300,05/02/2026,False
+O022,C04,North,Pen,6,12,12/01/2026,False
+O048,C13,North,Notebook,2,45,2026-03-03,False
+O099,C18,East,Mug,3,60,01/03/2026,False
+O033,C09,East,Notebook,5,,2026-03-12,False
+O090,C15, south ,Bag,4,300,2026-03-19,False
+O060,C12,NORTH,Notebook,2,,03/02/2026,False
+O043,C02,SOUTH,Pen,6,12,2026-03-25,False
+O108,C16,North,Lamp,3,150,2026-03-15,False
+O018,C23,South,Mug,2,60,28/01/2026,False
+O109,C18,East,Lamp,6,150,19/02/2026,False
+O012,C09,South,Lamp,6,150,2026-01-13,False
+O034,C25,East,Mug,6,60,2026-01-28,False
+O007,C04,NORTH,Bag,4,300,2026-01-28,True
+O095,C07,EAST,Mug,6,60,2026-03-22,False
