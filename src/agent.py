@@ -1,7 +1,7 @@
 """Planner + Worker + Critic agent for ANY OpenAI-compatible API (Gemini, Groq, OpenRouter, ...). Needs: pip install openai"""
 import os, json, re, subprocess, sys, tempfile, time
 
-MODEL = os.environ.get("MODEL", "gemini-2.5-flash")      # confirm the exact name in your provider's console
+MODEL = os.environ.get("MODEL", "gemini-3.1-flash-lite")      # confirm the exact name in your provider's console
 CRITIC_MODEL = os.environ.get("CRITIC_MODEL", MODEL)     # a different model here reduces "critic agrees with worker"
 PRICE_IN = float(os.environ.get("PRICE_IN", 0))          # $ per 1M input tokens (0 on a free tier -> use tokens/task instead)
 PRICE_OUT = float(os.environ.get("PRICE_OUT", 0))
